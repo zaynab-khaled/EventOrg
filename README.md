@@ -1,4 +1,4 @@
-EventOrg
+NfcShare
 ========
 
-An Android Event Management App as a graduation project for Ajman university 
+NFC Share App to share events
